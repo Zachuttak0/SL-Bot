@@ -1,20 +1,26 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SL-Bot", "SL-Bot.csproj", "{D164DA3A-CBBA-490F-BD97-325A8D9C9483}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
 		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Debug|ARM64.Build.0 = Debug|ARM64
 		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D164DA3A-CBBA-490F-BD97-325A8D9C9483}.Release|ARM64.Build.0 = Release|ARM64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
